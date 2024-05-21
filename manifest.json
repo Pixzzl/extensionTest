@@ -1,0 +1,10 @@
+{
+  "name": "Test Extension",
+  "description": "Testing grounds for shite",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "mainMenu.html",
+    "default_icon": "troll.png"
+  }
+}
